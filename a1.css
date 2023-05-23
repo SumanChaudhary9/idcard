@@ -1,0 +1,30 @@
+.box{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    border:2px solid black;
+}
+.venom{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+}
+.box2{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    border:2px solid black;
+}
+.vnm{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+}
